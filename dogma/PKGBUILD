@@ -9,7 +9,7 @@ url='https://github.com/lpil/dogma'
 license=('MIT')
 makedepends=('elixir')
 source=("https://github.com/lpil/dogma/archive/v$pkgver.tar.gz")
-md5sums=('SKIP')
+md5sums=('33f33fe824d193d4689bbc3f5cad7ae5')
 
 build() {
     cd "$pkgname-$pkgver"
